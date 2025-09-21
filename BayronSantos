@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Viajes Virtuales</title>
+</head>
+<body>
+    <center><h1>Rusia</h1></center>
+
+    <p>
+        Rusia es el país más grande del mundo, con una vasta diversidad cultural, histórica y natural.
+        Desde las majestuosas cúpulas de Moscú hasta los paisajes helados de Siberia, 
+        este destino ofrece experiencias únicas para cada viajero.
+    </p>
+
+    <p>
+        Durante tu viaje podrás visitar la Plaza Roja y el Kremlin en Moscú, 
+        la Catedral de San Basilio con sus icónicas cúpulas de colores, 
+        y la hermosa ciudad de San Petersburgo, conocida como la "Venecia del Norte".
+        También podrás recorrer el famoso ferrocarril Transiberiano.
+    </p>
+
+    <p>
+        <strong>Paquete turístico:</strong>  
+        - Duración: 7 días y 6 noches  
+        - Precio aproximado: $2,200 por persona  
+        - Incluye hospedaje, transporte interno y visitas guiadas  
+    </p>
+
+    <h2>Imagen representativa</h2>
+    <img src="https://mf.b37mrtl.ru/rbthmedia/images/2022.11/original/6378f9112bb3940db17597df.jpg" 
+         alt="Catedral de San Basilio en Moscú" width="450">
+
+    <h2>Video turístico</h2>
+    <iframe width="450" height="250" 
+            src="https://youtu.be/PjHS-FkMq-I?si=98JWogRemTxaOrXA" 
+            title="Turismo en Rusia" frameborder="0" allowfullscreen>
+    </iframe>
+
+    <p><a href="index.html">Volver a la página principal</a></p>
+</body>
+</html>
